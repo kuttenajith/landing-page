@@ -1,0 +1,10 @@
+.hero {
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem;
+    background: #f0faff;
+}
+
+.content h1 {
+    font-size: 3rem;
+}
